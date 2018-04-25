@@ -1,0 +1,7 @@
+C:\Angular 5>git add notes.docx
+
+C:\Angular 5>git remote add origin https://github.com/AnamikaDaiya/LoginWithAngular.git
+
+C:\Angular 5>git push -u origin master
+Username for 'https://github.com': AnamikaDaiya
+Password for 'https://AnamikaDaiya@github.com': Anamika@1
